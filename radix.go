@@ -3,4 +3,4 @@
 // (the most commonly used part of this package) and extra, which contains other
 // sub-packages for doing things like pooling connections and interacting with a
 // redis cluster.
-package myradix
+package radix
