@@ -4,8 +4,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/fzzy/radix/extra/pubsub"
-	"github.com/fzzy/radix/redis"
+	"github.com/asayupteam/radix/extra/pubsub"
+	"github.com/asayupteam/radix/redis"
 	"os"
 	"time"
 )

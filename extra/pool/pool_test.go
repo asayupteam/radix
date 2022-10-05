@@ -1,7 +1,7 @@
 package pool
 
 import (
-	"github.com/fzzy/radix/redis"
+	"github.com/asayupteam/radix/redis"
 	. "testing"
 )
 
