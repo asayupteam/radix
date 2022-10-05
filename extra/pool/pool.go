@@ -3,7 +3,7 @@
 package pool
 
 import (
-	"github.com/myradix/radix/redis"
+	"github.com/asayupteam/radix/redis"
 )
 
 // A simple connection pool. It will create a small pool of initial connections,
